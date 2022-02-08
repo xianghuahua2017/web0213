@@ -11,3 +11,7 @@
 8.将新分支提交的改动合并到主分支上：git merge branch01
 9.push代码：git push -u origin master
 10.最后可以删除这个分支：git branch -D branch01
+
+
+
+2022年2月8号
